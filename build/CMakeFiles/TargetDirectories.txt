@@ -1,0 +1,4 @@
+/mnt/c/Users/AruviB/OneDrive - CreamCollar/Desktop/trainer page/casino-number-guessing-game/build/CMakeFiles/casino_game.dir
+/mnt/c/Users/AruviB/OneDrive - CreamCollar/Desktop/trainer page/casino-number-guessing-game/build/CMakeFiles/test_game.dir
+/mnt/c/Users/AruviB/OneDrive - CreamCollar/Desktop/trainer page/casino-number-guessing-game/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/AruviB/OneDrive - CreamCollar/Desktop/trainer page/casino-number-guessing-game/build/CMakeFiles/rebuild_cache.dir
